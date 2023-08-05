@@ -4,7 +4,7 @@ All new id get from this command 😘🥰
 
 #Install Method
 
-       git clone https://github.com/Devil-king2/RANDOM-NEW
+       git clone https://github.com/Dark-Devil-king/RANDOM-NEW
        
        cd RANDOM-NEW
        
